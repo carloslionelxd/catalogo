@@ -6,7 +6,7 @@ En <CODE> está el enlace del repositorio
 1) Clonamos el repositorio
 git clone https://github.com/carloslionelxd/catalogo.git
 
-    Se crea eñl directorio catalogo
+    Se crea el directorio catalogo
     Abrimos la carpeta catalogo
 
 2) Verificamos el estado
@@ -19,7 +19,7 @@ git add file1 file2 ... filen
 git add . (Para todos los archivos)
 
 4) Empaquetamos los archivos que preparamos para subir
-git commit -m "Agrengando las instrucciones"
+git commit -m "Agregando las instrucciones"
 
 5) Subimos los archivos
 git push
