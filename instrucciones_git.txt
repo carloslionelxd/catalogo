@@ -1,0 +1,25 @@
+INSTRUCCIONES PARA UTILIZAR GIT 
+===============================
+
+En <CODE> está el enlace del repositorio
+
+1) Clonamos el repositorio
+git clone https://github.com/carloslionelxd/catalogo.git
+
+    Se crea eñl directorio catalogo
+    Abrimos la carpeta catalogo
+
+2) Verificamos el estado
+git status
+
+    Estamos en la rama (branch): main
+
+3) Preparamos los archivos para una futura subida
+git add file1 file2 ... filen
+git add . (Para todos los archivos)
+
+4) Empaquetamos los archivos que preparamos para subir
+git commit -m "Agrengando las instrucciones"
+
+5) Subimos los archivos
+git push
